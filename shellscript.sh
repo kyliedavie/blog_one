@@ -1,4 +1,5 @@
-
+#!/bin/bash
+# makes new folder 
 mkdir new-project 
 touch new-project/index.html 
 cd new-project
